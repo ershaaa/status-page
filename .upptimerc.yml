@@ -9,6 +9,7 @@ sites:
     interval: 5                
 
 status-website:
+  baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "API Status"
   introTitle: "API Status Page"
@@ -17,5 +18,5 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/<your-github-username>/<repo>  # Ganti sesuai repo kamu
+      href: https://github.com/ershaaa/status-page
 
