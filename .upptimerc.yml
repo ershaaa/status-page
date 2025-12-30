@@ -6,17 +6,27 @@ sites:
     url: https://api.adanothe.com/healthz
     expectedStatus: 200        
     check: "http"             
-    interval: 5                
+    interval: 5     
+  - name: Explorer Mainnet
+    url: https://explorer.adanothe.com/
+    expectedStatus: 200        
+    check: "http"             
+    interval: 5  
+  - name: Explorer Testnet
+    url: https://Bakerloo.adanothe.com/
+    expectedStatus: 200        
+    check: "http"             
+    interval: 5  
 
 status-website:
   baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "API Status"
-  introTitle: "API Status Page"
-  introMessage: "Monitoring status of https://api.adanothe.com/healthz. Powered by Upptime and GitHub Actions."
+  name: Adanode API Status
+  introTitle: Status for the **Adnode API**
+  introMessage: Adanode API Status
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/ershaaa/status-page
+      href: https://github.com/adanothe
 
