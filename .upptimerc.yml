@@ -22,7 +22,7 @@ status-website:
   baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Adanode API Status
-  introTitle: Status for the **Adnode API**
+  introTitle: Status for the **Adanode API**
   introMessage: Adanode API Status
   navbar:
     - title: Status
