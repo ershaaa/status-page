@@ -22,7 +22,7 @@
     "url": "https://explorer.adanothe.com/",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.adanothe.com.ico",
     "slug": "explorer-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,14 +33,16 @@
     "timeWeek": 3567,
     "timeMonth": 3567,
     "timeYear": 3567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-04": 0
+    }
   },
   {
     "name": "Explorer Testnet",
     "url": "https://Bakerloo.adanothe.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bakerloo.adanothe.com.ico",
     "slug": "explorer-testnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 3730,
     "timeMonth": 3730,
     "timeYear": 3730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-04": 0
+    }
   }
 ]
