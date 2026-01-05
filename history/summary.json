@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 813,
-    "timeDay": 661,
-    "timeWeek": 813,
-    "timeMonth": 813,
-    "timeYear": 813,
+    "time": 800,
+    "timeDay": 677,
+    "timeWeek": 800,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/explorer.adanothe.com.ico",
     "slug": "explorer-mainnet",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 3758,
-    "timeDay": 4983,
-    "timeWeek": 3758,
-    "timeMonth": 3758,
-    "timeYear": 3758,
-    "dailyMinutesDown": {
-      "2026-01-04": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3890,
+    "timeDay": 5022,
+    "timeWeek": 3890,
+    "timeMonth": 3890,
+    "timeYear": 3890,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Explorer Testnet",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bakerloo.adanothe.com.ico",
     "slug": "explorer-testnet",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 3851,
-    "timeDay": 4597,
-    "timeWeek": 3851,
-    "timeMonth": 3851,
-    "timeYear": 3851,
-    "dailyMinutesDown": {
-      "2026-01-04": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3479,
+    "timeDay": 2599,
+    "timeWeek": 3479,
+    "timeMonth": 3479,
+    "timeYear": 3479,
+    "dailyMinutesDown": {}
   }
 ]
