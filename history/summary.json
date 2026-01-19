@@ -22,18 +22,20 @@
     "url": "https://explorer.adanothe.com/",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.adanothe.com.ico",
     "slug": "explorer-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4237,
-    "timeDay": 4871,
-    "timeWeek": 5051,
-    "timeMonth": 4237,
-    "timeYear": 4237,
-    "dailyMinutesDown": {}
+    "time": 4085,
+    "timeDay": 2729,
+    "timeWeek": 4493,
+    "timeMonth": 4085,
+    "timeYear": 4085,
+    "dailyMinutesDown": {
+      "2026-01-19": 0
+    }
   },
   {
     "name": "Explorer Testnet",
