@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 692,
-    "timeWeek": 854,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "time": 791,
+    "timeDay": 666,
+    "timeWeek": 833,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/explorer.adanothe.com.ico",
     "slug": "explorer-mainnet",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "96.86%",
     "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 3976,
-    "timeDay": 2272,
-    "timeWeek": 4145,
-    "timeMonth": 3976,
-    "timeYear": 3976,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 3877,
+    "timeDay": 1110,
+    "timeWeek": 3711,
+    "timeMonth": 3877,
+    "timeYear": 3877,
     "dailyMinutesDown": {
       "2026-01-19": 45
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4083,
-    "timeDay": 4782,
-    "timeWeek": 5045,
-    "timeMonth": 4083,
-    "timeYear": 4083,
+    "time": 4123,
+    "timeDay": 5040,
+    "timeWeek": 4997,
+    "timeMonth": 4123,
+    "timeYear": 4123,
     "dailyMinutesDown": {}
   }
 ]
